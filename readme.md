@@ -39,9 +39,13 @@ Certifique-se de que a API esteja de acordo com todas as regulamentações e pol
 O intuito dessa api é ajudar devs que precisam dessa ferramenta para axuliar em seus testes.
 
 Se isso for util para você, fortalece o pix do @alequizao aqui:
+```
 alexjuniorcalado@gmail.com
-
-
+```
+Você pode me encontrar nas seguintes redes sociais:
+- [whatsapp](https://wa.me/5582988717072)
+- [instagram](https://instagram.com/alequizao)
+- Email: alexjuniorcalado@gmail.com
 
 -------------------------------
 
@@ -50,7 +54,4 @@ Palavras chave para ajudar devs a encontrarem esse projeto:
 
 [API GPTFree, ChatGPT, IA de Conversação, Assistente Virtual, Modelos de Linguagem, Respostas de IA, Perguntas e Respostas, GPT-3.5, Perguntas Filosóficas, Uso de GPT-3.5, Consulta de Informações, Busca de Conteúdo, Pesquisa de Dados, Recuperação de Informações, Provedores de IA, Raspagem de Dados, Assistente de Perguntas, Perguntas de Busca, Interrogações de IA, Solicitações de Respostas, Uso de Prompts, Geração de Conteúdo, Chatbot Inteligente, Aprendizado de Máquina, Inteligência Artificial, Processamento de Linguagem Natural, Perguntas Abertas, Consultas Filosóficas, Pesquisa de Significado, Descoberta de Significado, Projetos de IA, Desenvolvimento de API, Uso Ético de IA, Busca de Conhecimento, Respostas Personalizadas, Geração de Texto, Respostas Filosóficas, Pesquisa de Respostas, Chatbots de Conversação, Inteligência de Perguntas, Recomendações de IA, Tecnologia de Chatbot, Respostas de Perguntas, Filosofia da Vida, Perguntas Profundas, Experiência do Usuário, Consulta de Dados, Conversas de IA, Descoberta de Respostas, Desenvolvimento de Chatbot]
 
-Você pode me encontrar nas seguintes redes sociais:
-- [whatsapp](https://wa.me/5582988717072)
-- [instagram](https://instagram.com/alequizao)
-- Email: alexjuniorcalado@gmail.com
+
