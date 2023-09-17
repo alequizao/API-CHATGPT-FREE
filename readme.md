@@ -6,7 +6,8 @@ Passo 1: Formule o Prompt
 
 O prompt é a frase ou pergunta que você deseja enviar para obter uma resposta do GPT-3.5.
 Você deve incluir o prompt na URL após https://gptfree.appgps.com.br/prompt=
-Por exemplo, para pesquisar "Qual é o segredo da vida?", a URL seria: https://gptfree.appgps.com.br/prompt=Qual%20%C3%A9%20o%20segredo%20da%20vida?
+Por exemplo, para pesquisar "Qual é o segredo da vida?", a URL seria: https://gptfree.appgps.com.br/prompt=Qual%20%C3%A9%20o%20segredo%20da%20vida
+
 Passo 2: Fazer a Solicitação
 
 Utilize um método HTTP GET para enviar a solicitação à URL que você construiu com o prompt desejado.
