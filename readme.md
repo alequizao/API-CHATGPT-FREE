@@ -43,6 +43,9 @@ Se isso for util para você, fortalece o pix do @alequizao aqui:
 ```
 alexjuniorcalado@gmail.com
 ```
+
+https://ko-fi.com/alequizao
+
 Você pode me encontrar nas seguintes redes sociais:
 - [whatsapp](https://wa.me/5582988717072)
 - [instagram](https://instagram.com/alequizao)
