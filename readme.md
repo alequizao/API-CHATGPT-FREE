@@ -13,8 +13,9 @@ Utilize um método HTTP GET para enviar a solicitação à URL que você constru
 A resposta virá no formato JSON, contendo a resposta gerada pelo GPT-3.5.
 Exemplo de Solicitação:
 
-
+```
 GET https://gptfree.appgps.com.br/prompt=Qual%20%C3%A9%20o%20segredo%20da%20vida?
+```
 Passo 3: Receber a Resposta
 
 A resposta JSON conterá o texto gerado pelo modelo em resposta.
