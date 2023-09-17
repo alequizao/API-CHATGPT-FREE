@@ -44,7 +44,7 @@ Se isso for util para você, fortalece o pix do @alequizao aqui:
 alexjuniorcalado@gmail.com
 ```
 
-https://ko-fi.com/alequizao
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0PBCUS)
 
 Você pode me encontrar nas seguintes redes sociais:
 - [whatsapp](https://wa.me/5582988717072)
