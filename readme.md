@@ -21,10 +21,11 @@ A resposta JSON conterá o texto gerado pelo modelo em resposta.
 Dependendo da estrutura da resposta JSON, você pode acessar a resposta usando a chave apropriada.
 Exemplo de Resposta JSON:
 
-json
+```json
 {
-  "resposta": "A resposta para a pergunta sobre o segredo da vida é um tópico profundo e filosófico. Muitas pessoas têm suas próprias teorias e crenças, mas o segredo da vida pode ser uma jornada pessoal de descoberta e significado."
+  "answer": "A resposta para a pergunta sobre o segredo da vida é um tópico profundo e filosófico. Muitas pessoas têm suas próprias teorias e crenças, mas o segredo da vida pode ser uma jornada pessoal de descoberta e significado."
 }
+```
 
 Passo 4: Explorar Provedores de Dados (Opcional)
 
