@@ -45,6 +45,8 @@ alexjuniorcalado@gmail.com
 ```
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0PBCUS)
+![Texto alternativo da imagem](https://storage.ko-fi.com/cdn/useruploads/N4N0PBCUS/qrcode.png?v=632d71a6-3d1f-46b4-b1e7-8b438ee57d4a)
+
 
 Você pode me encontrar nas seguintes redes sociais:
 - [whatsapp](https://wa.me/5582988717072)
