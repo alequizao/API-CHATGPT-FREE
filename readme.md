@@ -38,3 +38,9 @@ O intuito dessa api é ajudar devs que precisam dessa ferramenta para axuliar em
 
 Se isso for util para você, fortalece o pix do @alequizao aqui:
 alexjuniorcalado@gmail.com
+
+
+Você pode me encontrar nas seguintes redes sociais:
+- [whatsapp](https://wa.me/5582988717072)
+- [instagram](https://instagram.com/alequizao)
+- Email: alexjuniorcalado@gmail.com
