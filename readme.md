@@ -29,11 +29,6 @@ Exemplo de Resposta JSON:
 }
 ```
 
-- Passo 4: Explorar Provedores de Dados (Opcional)
-
-Você também mencionou que a API coleta dados de provedores de IA. Se desejar acessar dados desses provedores, você pode consultar a seguinte URL: https://gpt.tevion.com.br/api/v1/chat/providers/
-Esta URL fornecerá informações sobre os provedores de onde os dados são coletados.
-Lembre-se de que esta é uma explicação básica do uso da API com base nas informações fornecidas. Você pode precisar de detalhes adicionais sobre autenticação, limites de uso ou qualquer outra funcionalidade específica que tenha implementado em sua API.
 
 Certifique-se de que a API esteja de acordo com todas as regulamentações e políticas de uso de dados aplicáveis e tenha em mente que você é responsável pelo uso ético e legal da API e dos dados coletados.
 
