@@ -15,7 +15,7 @@ A resposta virá no formato JSON, contendo a resposta gerada pelo GPT-3.5.
 Exemplo de Solicitação:
 
 ```
-GET https://gptfree.tevion.com.br/prompt=Qual%20%C3%A9%20o%20segredo%20da%20vida?
+curl https://gptfree.tevion.com.br/prompt=Qual%20%C3%A9%20o%20segredo%20da%20vida?
 ```
 - Passo 3: Receber a Resposta
 
